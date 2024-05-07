@@ -3,6 +3,8 @@
 
 <img align="center"alt="coding"width="400"src="![image](https://github.com/faishalanalyst/Md-/assets/162610018/1dcd4ea3-872d-4d12-a92e-6f958ba0db5f)">
 
+
+
 # 💫 About Me:
 👯  Pursuring Data Analytics using Python<br>🌱  Currently Learning Power BI tools<br>⚡  Fun fact Funny<br> 🔭 Take life seriously, because when you do, life starts taking you seriously.
 
