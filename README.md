@@ -1,9 +1,7 @@
+<img align="center"alt="coding"width="400"src="![image](https://github.com/faishalanalyst/Md-/assets/162610018/6adbb28c-4bea-4230-9c9c-e60cff917b1b)"
+>
 <h1 align="center">Hi 🤚, I'm Md Faishal Jamil</h1>
-<h3 align="center">A Passionate Data Analytics from India</h3>
-
-<img align="center"alt="coding"width="400"src="![image](https://github.com/faishalanalyst/Md-/assets/162610018/1dcd4ea3-872d-4d12-a92e-6f958ba0db5f)">
-
-
+<h3 align="center">Hi A Passionate Data Analyst from India</h3>
 
 # 💫 About Me:
 👯  Pursuring Data Analytics using Python<br>🌱  Currently Learning Power BI tools<br>⚡  Fun fact Funny<br> 🔭 Take life seriously, because when you do, life starts taking you seriously.
